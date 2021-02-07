@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.templatemonsterpreview.com	TRUE	/	FALSE	1999999999	__cfduid	d9e4af3f80ad35f55ea805cdeab3d24fe1612657105
+www.templatemonsterpreview.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.tmimgcdn.com	TRUE	/	FALSE	1999999999	__cfduid	d66adbedbf206071d044bf891b0720da91612657109
+s3sf.tmimgcdn.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
